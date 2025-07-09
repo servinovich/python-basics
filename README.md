@@ -143,12 +143,6 @@ python script\_name.py
 
 
 
-\* Project folder on server:
-
-\* Confluence link:
-
-\* Asana board:
-
 \* etc...
 
 
