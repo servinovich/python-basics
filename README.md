@@ -1,4 +1,4 @@
-\# 🐍 Python Basics Portfolio
+# 🐍 Python Basics Portfolio
 
 
 
@@ -6,11 +6,11 @@ This repository contains a collection of beginner-friendly Python scripts that d
 
 
 
-\## Files and Descriptions
+## Files and Descriptions
 
 
 
-\### script\_1\_greeting.py
+### script\_1\_greeting.py
 
 
 
@@ -32,7 +32,7 @@ Hello, Alex! Welcome to my portfolio with Python basics.
 
 
 
-\### script\_2\_even\_check.py
+### script\_2\_even\_check.py
 
 
 
@@ -52,7 +52,7 @@ The number is odd.
 
 
 
-\### script\_4\_save\_div.py
+### script\_4\_save\_div.py
 
 
 
@@ -76,7 +76,7 @@ Processing Complete.
 
 
 
-\### script\_5\_class.py
+### script\_5\_class.py
 
 
 
@@ -104,7 +104,7 @@ Capacity: 4
 
 
 
-\### 🚀 Getting Started
+### 🚀 Getting Started
 
 
 
@@ -120,7 +120,7 @@ python script\_name.py
 
 
 
-\## 📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 
 
 
@@ -139,11 +139,9 @@ python script\_name.py
 
 
 
-\## Additional Documentation and Acknowledgments
+## Additional Documentation and Acknowledgments
 
 
-
-\* etc...
 
 
 
